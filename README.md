@@ -56,7 +56,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
   - [ ] [UI Automator][testing_and_debuggin_ui_automator]
   - [ ] [Advanced Espresso Google I/O 2016][testing_and_debugging_google_io]
   - [ ] [Advanced Android Espresso (Big Android BBQ 2016)][testing_and_debugging_advanced_android_espresso_bbq]
-  - [ ] [Espresso cheat sheet][testing_and_debugging_espresso_cheat_sheet]
+  - [ ] [Espresso cheat sheet](https://developer.android.com/training/testing/espresso/cheat-sheet)
   - [ ] [Espresso Serie Caster][testing_and_debugging_espresso_serie_caster]
   - [ ] [[Udacity Course] Advanced Android App Development Lesson: Espresso](https://www.udacity.com/course/advanced-android-app-development--ud855)
 
